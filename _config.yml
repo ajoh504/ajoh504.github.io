@@ -1,2 +1,4 @@
-theme: minima
+theme: jekyll-theme-minimal
+title: This is a test (title)
 author: Alex Johnson
+description: this is a test (description)
