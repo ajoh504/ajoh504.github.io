@@ -1,3 +1,3 @@
 ---
-title: "test editing index"
+layout: default
 ---
