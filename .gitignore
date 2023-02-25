@@ -1,2 +1,5 @@
 # ignore PyCharm directories
 .idea/
+
+# ignore Jekyll test files
+.jekyllTests/
