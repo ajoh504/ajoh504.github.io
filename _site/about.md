@@ -5,6 +5,7 @@ My name is Alex Johnson. I'm an IT support technician and software enthusiast. I
 I am not an expert on the subjects presented here. Rather, my goal is to write articles as a way to test my knowledge on the things I'm learning.
 
 Sites I follow:
+
 - [PCjs](https://www.pcjs.org/)
 - [Fabulous Adventures in Coding](https://ericlippert.com/)
 - [Better Explained](https://betterexplained.com/)
