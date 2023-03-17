@@ -1,4 +1,4 @@
-# About
+## About
 
 My name is Alex Johnson. I'm an IT support technician and software enthusiast. I created this site to document my journey in learning computer science. The topics you'll find here may include any of the following: algorithms, data structures, programming language features, and software engineering concepts.
 
