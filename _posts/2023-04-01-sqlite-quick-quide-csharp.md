@@ -1,10 +1,9 @@
 ---
 layout: post
 title: A Quick Guide for Setting up SQLite with C#
-excerpt_separator: <!--more-->
 ---
 
-Earlier today, I added a SQLite reference to a C# project. Since this is only my second time implementing a database in a coding project, I decided to put together a quick reference guide.<!--more>
+Earlier today, I added a SQLite reference to a C# project. Since this is only my second time implementing a database in a coding project, I decided to put together a quick reference guide.
 
 Note: The installation portion of this guide assumes the use of Visual Studio. 
 
