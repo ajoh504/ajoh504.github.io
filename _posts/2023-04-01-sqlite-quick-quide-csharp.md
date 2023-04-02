@@ -16,6 +16,7 @@ Note: The installation portion of this guide assumes the use of Visual Studio.
 5. Click on your Project
 6. Click Dependencies > Packages. The SQLite assembly should be there
 7. Double-click your Project to open the .csproj file. This file should show the following, with the appropriate version number:
+
 ```xml
   <ItemGroup>
     <PackageReference Include="System.Data.SQLite" Version="x.x.xxx" />
