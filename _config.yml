@@ -1,1 +1,5 @@
 theme: minima
+show_excerpts: true
+minima:
+  skin: dark
+  
