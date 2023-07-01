@@ -6,9 +6,9 @@ excerpt_separator: <!--more-->
 
 I've been encountering expression trees regularly these days, particularly in using Entity Framework and LINQ Expressions.<!--more--> 
 
-The syntax for expression trees can be overwhelming at first, particularly for beginners. To understand this type of syntax more, I found some sample code while reading through the C# docs.
+The syntax for expression trees can be overwhelming at first, particularly for beginners. To understand this type of syntax more, I found some sample code while reading through the [C# docs](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/program-building-blocks#virtual-override-and-abstract-methods).
 
-To start, let's take a look at this code sample that comes from the [Microsoft docs](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/program-building-blocks#virtual-override-and-abstract-methods). Like the article explains, this example is similar to, but not related to the expression tree type.
+Let's take a look at the sample code. Like the article explains, this example is similar to, but not related to the expression tree type.
 
 ```cs
 public abstract class Expression
