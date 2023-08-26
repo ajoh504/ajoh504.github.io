@@ -2,9 +2,10 @@
 layout: post
 title: A Basic Look at Binary Search
 tag: algorithms
+excerpt_separator: <!--more-->
 ---
 
-The binary search algorithm has a straight-forward use-case: take a sorted collection of integers, search for a key, and return the location where the key is stored. If the key is not found in the collection, then return a value such as `null` or `-1`.
+The binary search algorithm has a straight-forward use-case: take a sorted collection of integers, search for a key, and return the location where the key is stored. <!--more--> ~~~~If the key is not found in the collection, then return a value such as `null` or `-1`.
 
 There is one major advantage to binary search, and that advantage is speed. Binary search achieves this by continually cutting the collection in half until a match is found. 
 
