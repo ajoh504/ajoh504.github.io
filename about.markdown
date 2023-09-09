@@ -16,4 +16,4 @@ Sites I follow:
 - [Advent of Computing](https://adventofcomputing.com/)
 - [SS64](https://ss64.com/)
 
-This blog is hosted using [GitHub pages](https://docs.github.com/en/pages) and [Jekyll](https://jekyllrb.com/). 
+This blog is hosted using [GitHub Pages](https://docs.github.com/en/pages) and [Jekyll](https://jekyllrb.com/), and uses the [Utterances](https://utteranc.es/) widget for comments.  
