@@ -115,5 +115,3 @@ Although the `Operation` class only accepts two operands, we can build mathemati
 Each class hints at the core definition of an expression. A single value is itself an expression. A reference to a value is also an expression, and any number of values with operands (an operation) also represent expressions. 
 
 The root of the sample above lies in the `Operation` class. By passing in other operations as parameters to a single root operation, we can build complex expression trees using very simple base code.
-
-{% include utterances.html %}

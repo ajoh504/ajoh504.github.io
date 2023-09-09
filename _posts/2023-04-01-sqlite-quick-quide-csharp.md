@@ -133,4 +133,3 @@ using (SQLiteConnection connection = new SQLiteConnection($"Data Source={databas
     }
 }
 ```
-{% include utterances.html %}

@@ -171,4 +171,3 @@ $ BinarySearch.exe 45 integers.txt
     }
 }
 ```
-{% include utterances.html %}

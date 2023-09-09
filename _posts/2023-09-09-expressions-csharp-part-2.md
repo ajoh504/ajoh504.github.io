@@ -45,6 +45,4 @@ In this example, the expression tree is fairly simple. The lambda itself is the 
 
 `filePaths.Contains<string>(f.Path)` is the second sub node. It is the expression body of the lambda and it represents the actual function argument. When it is finally passed to the `GetRange` method, it will be used to filter data from the data set. In this case, the data is filtered by searching through `filePaths`. Every entry in the data set, represented as `f`, is passed to `filePaths.Contains()`. If `filePaths` contains `f.Path`, then it is added to the return value.
 
-This is a small example of how expression trees can be used in C#. As I continue writing code, I'm finding that using LINQ and Entity Framework can be a lot of fun. In particular, these two libraries have exposed me to lambda expressions, something that I think will benefit my coding for the long term. 
-
-{% include utterances.html %}
+This is a small example of how expression trees can be used in C#. As I continue writing code, I'm finding that using LINQ and Entity Framework can be a lot of fun. In particular, these two libraries have exposed me to lambda expressions, something that I think will benefit my coding for the long term.
