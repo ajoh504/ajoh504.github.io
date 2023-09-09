@@ -1,9 +1,11 @@
-# ignore PyCharm directories
-.idea/
-.drafts/
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
-.bundle/
 vendor
+gemfiles
+Gemfile
+Gemfile.lock
+node_modules
+.idea
+.drafts
