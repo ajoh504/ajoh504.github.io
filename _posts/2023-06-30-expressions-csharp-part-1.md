@@ -2,6 +2,7 @@
 layout: post
 title: Understanding Expressions in C# - Pt. 1
 excerpt_separator: <!--more-->
+{% include utterances.html %}
 ---
 
 I've been encountering expression trees regularly these days, particularly in using Entity Framework and LINQ Expressions.<!--more--> 
