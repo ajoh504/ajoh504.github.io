@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 My name is Alex Johnson. I'm a software enthusiast currently learning programming. I created this site to document my journey in doing so. The topics you'll find here may include any of the following: algorithms, data structures, programming language features, and software engineering concepts.
