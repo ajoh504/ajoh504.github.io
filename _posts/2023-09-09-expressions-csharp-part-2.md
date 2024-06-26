@@ -4,7 +4,7 @@ title: Understanding Expressions in C# - Pt. 2
 excerpt_separator: <!--more-->
 ---
 
-In my [previous post](https://ajoh504.github.io/2023/06/30/expressions-csharp-part-1.html), we looked at a simple example of expression trees. As the name implies, expression trees allow us to write code in a tree-like structure. <!--more-->Each expression acts as a node that interacts with other nodes in the tree.<!--more-->
+In my [previous post](https://ajoh504.github.io/2023/06/30/expressions-csharp-part-1.html), we looked at a simple example of expression trees. As the name implies, expression trees allow us to write code in a tree-like structure. <!--more-->Each expression acts as a node that interacts with other nodes in the tree.
 
 To dig a little further, let's pick apart a method called `GetRange`, which allows the caller to filter data from a data set. `GetRange` uses the `Expression<TDelegate>` type. It will also use Entity Framework via a `DbSet<TEntity>` object:
 
