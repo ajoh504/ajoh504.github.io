@@ -4,7 +4,7 @@ title: Let's Code A Queue With a Circular Linked List
 excerpt_separator: <!--more-->
 ---
 
-While reading the textbook [Algorithms](https://algs4.cs.princeton.edu/home/) I encountered a problem that was too good to ignore. The goal is to write a queue that uses a circular linked list. On first glance, that goes against everything I know about how queues and linked lists work. So let me show you my thought process while working through it.
+While reading the textbook [Algorithms](https://algs4.cs.princeton.edu/home/) I encountered a problem that was too good to ignore. The goal is to write a queue that uses a circular linked list.<!--more--> On first glance, that goes against everything I know about how queues and linked lists work. So let me show you my thought process while working through it.
 
 Here's the prompt:
 
