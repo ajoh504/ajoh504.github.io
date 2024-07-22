@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Code Two Sum - LeetCode #1
+title: Let's Code Two Sum - LeetCode \# 1
 excerpt_separator: <!--more-->
 ---
 
