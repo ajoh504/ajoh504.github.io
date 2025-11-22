@@ -8,8 +8,8 @@ Welcome to breakPoints! I'm Alexander G. Johnson, a writer and programmer. This 
 
 You can browse the site topics using these tags:
 
-[programming](/tag/programming)
-[personal](/tag/personal)
+- [programming](/tag/programming)
+- [personal](/tag/personal)
 
 Here are some sites I follow:
 
