@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Let's Code A Queue With a Circular Linked List
+tags: [programming]
+author: Alexander G. Johnson
 excerpt_separator: <!--more-->
 ---
 

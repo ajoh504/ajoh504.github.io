@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Let's Code Two Sum - LeetCode Number 1
+tags: [programming]
+author: Alexander G. Johnson
 excerpt_separator: <!--more-->
 ---
 

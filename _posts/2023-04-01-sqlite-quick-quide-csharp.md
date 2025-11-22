@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A Quick Guide for Setting up SQLite with C#
+tags: [programming]
+author: Alexander G. Johnson
 ---
 
 Earlier today, I added a SQLite reference to a C# project. Since this is only my second time implementing a database in a coding project, I decided to put together a quick reference guide.

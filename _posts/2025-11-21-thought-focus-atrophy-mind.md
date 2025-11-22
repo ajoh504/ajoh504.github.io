@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Thought, Focus, and the Atrophy of the Mind
-tag: Personal
+tags: [personal]
+author: Alexander G. Johnson
 excerpt_separator: <!--more-->
 ---
 

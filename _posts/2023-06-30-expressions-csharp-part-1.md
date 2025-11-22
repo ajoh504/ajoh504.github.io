@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Understanding Expressions in C# - Pt. 1
+tags: [programming]
+author: Alexander G. Johnson
 excerpt_separator: <!--more-->
 ---
 

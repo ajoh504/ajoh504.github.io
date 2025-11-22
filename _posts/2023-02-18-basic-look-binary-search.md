@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A Basic Look at Binary Search
-tag: algorithms
+tags: [programming]
+author: Alexander G. Johnson
 excerpt_separator: <!--more-->
 ---
 
