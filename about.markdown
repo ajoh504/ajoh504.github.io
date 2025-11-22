@@ -4,11 +4,14 @@ title: About
 permalink: /About/
 ---
 
-Welcome to breakPoints! I'm Alex Johnson, a software developer and writer. This site serves as a chronicle of my journey in learning computer science. 
+Welcome to breakPoints! I'm Alexander G. Johnson, a writer and programmer. This site serves as place for me to post about life, technology, and other topics of interest.
 
-The topics you’ll find here may include any of the following: algorithms, data structures, programming language features, software engineering concepts, and of course, computer science. 
+You can browse the site topics using these tags:
 
-Sites I follow:
+[programming](/tag/programming)
+[personal](/tag/personal)
+
+Here are some sites I follow:
 
 - [PCjs](https://www.pcjs.org/)
 - [Fabulous Adventures in Coding](https://ericlippert.com/)
