@@ -18,7 +18,7 @@ The "infinite scroll" has become so ubiquitous with online life that it's almost
 
 Later, as Marriott states, it was in the year 1980 that CNN formally debuted as a 24-hour news channel. From there forward, it was entirely possible for people to engage in television at all hours. This shift in technology is not unlike life today, where the infinite scroll offers us the option for information. The result is something addicting, that subtle dopamine rush that's just slight enough to keep you from wanting to close the laptop, put down the phone, or shut off the noise. 
 <br>
-- - -
+* * *
 <br>
 I began my English undergrad in 2007, enrolling in various professional writing and journalism courses. At that time, Facebook launched just three years prior and Twitter only one. Those infantile years for social media culminated in a lot of uncertainty regarding the future of print media. Like many of my classmates and even some of my professors, there was a constant conversation about whether or not any of us had a future career in writing.
 
@@ -34,7 +34,7 @@ One of the ways I allowed myself to become pulled into the digital vortex is whe
 
 There is too much information in our heads. It really is that simple. Very little time goes by without our minds being connected to a virtual pipeline of content, whether it be newsfeeds or infinite access to cat videos. All of this information exists with varying degrees of importance, but because we give ourselves such little time to digest any of it, it is almost all treated as unimportant and therefore discarded to make room for the next thing. 
 <br>
-- - -
+* * *
 <br>
 If the mind has no time to wander, then the imagination goes unused. My hope is that if the issue is that simple, then the solution must be equally as simple. 
 
