@@ -4,7 +4,7 @@ title: About
 permalink: /About/
 ---
 
-Welcome to breakPoints! I'm Alexander G. Johnson, a writer and programmer. This site serves as place for me to post about life, technology, and other topics of interest.
+Welcome to breakPoints! This content on this site revolves around life, technology, and other topics of interest.
 
 You can browse the site topics using these tags:
 
