@@ -16,9 +16,9 @@ Without a doubt, our constant consumption of information, [whether through enter
 The "infinite scroll" has become so ubiquitous with online life that it's almost hard to imagine browsing the Internet without it. In his [op-ed at The Times](https://www.thetimes.com/comment/columnists/article/age-of-distraction-began-long-before-iphones-2qdpkl6fp), James Marriott suggests that this trend did not begin with the invention of the smartphone but rather with the era of television. The desire to constantly search for the next best thing to entertain our minds is not unique to the internet era, smartphones, streaming services, or social media. 
 
 Later, as Marriott states, it was in the year 1980 that CNN formally debuted as a 24-hour news channel. From there forward, it was entirely possible for people to engage in television at all hours. This shift in technology is not unlike life today, where the infinite scroll offers us the option for information. The result is something addicting, that subtle dopamine rush that's just slight enough to keep you from wanting to close the laptop, put down the phone, or shut off the noise. 
-
-*  *  *
-
+<br>
+---
+<br>
 I began my English undergrad in 2007, enrolling in various professional writing and journalism courses. At that time, Facebook launched just three years prior and Twitter only one. Those infantile years for social media culminated in a lot of uncertainty regarding the future of print media. Like many of my classmates and even some of my professors, there was a constant conversation about whether or not any of us had a future career in writing.
 
 Around this time, many newspapers and magazines were just beginning to move toward a hybrid publishing model. This involved some combination of printed stories and web content. Over the next few years, the impact would be felt particularly in subscription-based newspapers and magazines, where there was not yet a definite path to monetize their online content. With so many competing sources for the written word, it was not clear how print publications would survive. I confess to being one of the guilty. Why would I pay for news when I could find it online for free? This mentality was likely felt by many in my generation. 
@@ -32,9 +32,9 @@ Some believe that [our attention is being stolen](https://www.theguardian.com/sc
 One of the ways I allowed myself to become pulled into the digital vortex is when I stopped reading books. It almost hurts to admit that, but there was a stretch of several years after I graduated college where I didn't even touch a book. In the last few years, I found a way to change that. But if I'm going to be realistic about how my attention has changed over time, choosing to stop reading was one of the biggest impacting factors that has affected my ability to focus on a single thing. This didn't happen because my attention was stolen. It happened because I gave it away, like a misguided spending habit for a person who has lost sight of the value of money. In this case, the currency is my attention.
 
 There is too much information in our heads. It really is that simple. Very little time goes by without our minds being connected to a virtual pipeline of content, whether it be newsfeeds or infinite access to cat videos. All of this information exists with varying degrees of importance, but because we give ourselves such little time to digest any of it, it is almost all treated as unimportant and therefore discarded to make room for the next thing. 
-
-*  *  *
-
+<br>
+---
+<br>
 If the mind has no time to wander, then the imagination goes unused. My hope is that if the issue is that simple, then the solution must be equally as simple. 
 
 For the vast majority of us, a complete digital detox is unrealistic if not impossible. Such a thing would involve more than just unplugging from reels and newsfeeds. It would require disconnecting from families, obligations, and in a lot of cases, our jobs. However, even those of us who live incredibly busy lives can afford a few minutes a day to give the mind a break.
